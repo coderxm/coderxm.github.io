@@ -3,7 +3,7 @@
 User-agent: *
 
 Allow:/
-Allow: /sitemap/
+Allow: /baidusitemap.xml
  
 #sitemap
 Sitemap: https://index.maliaoblog.cn/baidusitemap.xml
