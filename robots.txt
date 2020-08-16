@@ -1,0 +1,9 @@
+#robots.txt
+
+User-agent: *
+
+Allow:/
+Allow: /sitemap/
+ 
+#sitemap
+Sitemap: https://index.maliaoblog.cn/baidusitemap.xml
